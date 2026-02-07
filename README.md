@@ -1,4 +1,4 @@
-# Tech Nation Evidence – Samuel Boadi Agyekum
+# Evidence Index – Samuel Boadi Agyekum
 
 This repository curates links to my most relevant public technical work demonstrating:
 - applied machine learning and explainability
